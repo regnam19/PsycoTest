@@ -14,6 +14,7 @@ namespace EntidadesCompartidas
         private string _DirCli;
         private string _PassCli;
         private string _UsuCli;
+        private string _NombrePrueba;
 
         private List<Telefono> _ListaTel;
 
